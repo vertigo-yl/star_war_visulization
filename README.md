@@ -1,6 +1,6 @@
 ## Data analysis and visualization of knowledge graph for star war movies
 
-[**Project show**](http://starwar-visualization.s3-website-us-west-1.amazonaws.com)
+[**You can have a look at this Project first **](http://starwar-visualization.s3-website-us-west-1.amazonaws.com)
 
 This project collected data from online database [**SWAPI**](https://swapi.co), which is the world's first quantified and programmatically-accessible data source for all the data from the Star Wars canon universe!
 
