@@ -11,7 +11,13 @@ We can get the json file of all data from this website, then use urllib in pytho
 
 ### 2. Basic analysis
 
+![](Overview.png)
+
 "Attack of the Clones" has most characters 
+
+
+![](characters.png)
+
 
 ### 3. Build relationship data file
 
